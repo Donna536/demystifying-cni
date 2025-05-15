@@ -3,3 +3,4 @@ build/
 *.log
 *.pyc
 .DS_Store
+coverage/
